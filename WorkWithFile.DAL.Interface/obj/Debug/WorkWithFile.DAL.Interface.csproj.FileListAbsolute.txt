@@ -1,0 +1,11 @@
+E:\Programs\Projects Visual Studio\WorkWithFile\WorkWithFile.DAL.Interface\bin\Debug\WorkWithFile.DAL.Interface.dll
+E:\Programs\Projects Visual Studio\WorkWithFile\WorkWithFile.DAL.Interface\bin\Debug\WorkWithFile.DAL.Interface.pdb
+E:\Programs\Projects Visual Studio\WorkWithFile\WorkWithFile.DAL.Interface\obj\Debug\WorkWithFile.DAL.Interface.csprojAssemblyReference.cache
+E:\Programs\Projects Visual Studio\WorkWithFile\WorkWithFile.DAL.Interface\obj\Debug\WorkWithFile.DAL.Interface.csproj.CoreCompileInputs.cache
+E:\Programs\Projects Visual Studio\WorkWithFile\WorkWithFile.DAL.Interface\obj\Debug\WorkWithFile.DAL.Interface.dll
+E:\Programs\Projects Visual Studio\WorkWithFile\WorkWithFile.DAL.Interface\obj\Debug\WorkWithFile.DAL.Interface.pdb
+E:\Programs\Projects Visual Studio\WorkWithFile\WorkWithFile.DAL.Interface\bin\Debug\Entity.dll
+E:\Programs\Projects Visual Studio\WorkWithFile\WorkWithFile.DAL.Interface\bin\Debug\Ninject.dll
+E:\Programs\Projects Visual Studio\WorkWithFile\WorkWithFile.DAL.Interface\bin\Debug\Entity.pdb
+E:\Programs\Projects Visual Studio\WorkWithFile\WorkWithFile.DAL.Interface\bin\Debug\Ninject.xml
+E:\Programs\Projects Visual Studio\WorkWithFile\WorkWithFile.DAL.Interface\obj\Debug\WorkWithFile.DAL.Interface.csproj.CopyComplete
