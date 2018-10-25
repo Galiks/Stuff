@@ -1,0 +1,31 @@
+﻿@using WebApplication3.Models;
+
+@model Dictionary<Guid, Note>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+<div>
+
+    @using (Html.BeginForm("Create", "Home"))
+    {
+        <input type="text" name="title" value="" />
+        <input type="text" name="desc" value="" />
+        <input type="submit" value="Отправить" />
+    }
+</div>
+
+<div>
+
+    @foreach (var item in Model)
+    {
+        <table border="1">
+            <tr>
+                <td>@item.Key</td>
+                <td>@item.Value.Title</td>
+                <td>@item.Value.Description</td>
+                <td>@Html.ActionLink("Delete", "Delete", new { id = item.Key })</td>
+            </tr>
+        </table>
+        }
+</div>
